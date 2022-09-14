@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LedZeppelin256
 - 👀 I’m interested in FronEnd, Gaming, Crypto, MobileApp
 - 🌱 I’m currently learning HTML,CSS,JS,SASS,LESS,Bootstrap,UE
-- 💞️ I'm looking to collaborate on mini game development, frontend development, mobile application development, game development 
+- 💞️ I'm looking to collaborate on frontend development, mobile application development, game development 
 - 📫 How to reach me: duje.jozic@outlook.com
 
 <!---
